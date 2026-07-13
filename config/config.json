@@ -1,0 +1,19 @@
+{
+    "job_titles": [
+        "DevOps Engineer",
+        "Azure DevOps Engineer",
+        "Cloud Engineer",
+        "Platform Engineer",
+        "SRE"
+    ],
+
+    "locations": [
+        "Anywhere"
+    ],
+
+    "work_mode": [
+        "Remote",
+        "Hybrid",
+        "Onsite"
+    ]
+}

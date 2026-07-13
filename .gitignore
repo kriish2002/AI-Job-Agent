@@ -1,0 +1,12 @@
+.env
+venv/
+__pycache__/
+*.pyc
+
+database/notified_jobs.csv
+jobs.csv
+
+.vscode/
+.idea/
+
+*.log

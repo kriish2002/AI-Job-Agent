@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the DevOps Engineer position at PSI CRO. I hold a Bachelor of Technology in Computer Science and Engineering from Hindustan College of Science and Technology.
+
+In my role as an Associate DevOps Engineer at Team Computers Pvt. Ltd., I provisioned and managed Azure infrastructure using modular Terraform. I maintained automated CI/CD pipelines using Azure DevOps and GitHub Actions and implemented DevSecOps practices by integrating tools such as Tfsec, TFLint, and TruffleHog. My technical skills include containerization with Docker and Kubernetes (AKS), as well as monitoring using Prometheus, Grafana, and the ELK stack.
+
+I am proficient in Linux administration and utilize Bash, Python, and PowerShell for automation. I have also managed Git version control and branching strategies. Additionally, I gained experience with SQL during my internship at YBI Foundation.
+
+I am an immediate joiner and look forward to the possibility of discussing how my experience aligns with the requirements of your team.
+
+Sincerely,
+Krishan Kumar Rawat
